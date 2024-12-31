@@ -29,33 +29,40 @@ Entropy Optimization: Features advanced randomness testing and perfect entropy s
 Modular Design: Seamlessly integrates with various applications, from personal data protection to enterprise-level solutions.
 Comprehensive Testing Suite: Includes tools for entropy analysis, randomness validation, performance benchmarking, and more.
 Open Source: Encourages collaboration and innovation, ensuring continuous growth and improvement.
-What CipherStack Promises
-CipherStack is not just a tool—it’s a vision. By releasing it as an open-source project, we invite cryptographers, developers, and enthusiasts worldwide to join forces in shaping its future. Together, we can achieve:
 
+What CipherStack Promises
+CipherStack is not just a tool—it’s a vision. By releasing it as an open-source project, we invite cryptographers, developers, and enthusiasts worldwide to join forces in shaping its future. 
+
+Together, we can achieve:
 Uncompromising Security: Stay ahead of evolving threats, including quantum computing advancements.
 Performance at Scale: Optimize CipherStack for enterprise-grade encryption on high-performance infrastructures.
 Universal Applicability: Adapt CipherStack to industries such as healthcare, finance, defense, and beyond, ensuring versatile and reliable data protection.
 Vision for the Future
-CipherStack’s prototype is only the beginning of its journey. With strategic investment in hardware, algorithm refinement, and collaborative efforts, the possibilities are limitless:
+CipherStack’s prototype is only the beginning of its journey. 
+With strategic investment in hardware, algorithm refinement, and collaborative efforts, the possibilities are limitless:
 
 Revolutionizing the way sensitive data is encrypted, stored, and transmitted.
 Serving as the foundation for next-generation cryptographic tools tailored to AI and quantum computing needs.
 Offering a transparent and robust alternative to proprietary encryption systems, fostering trust and collaboration in the cryptography community.
 Getting Started
+
+
 Start using CipherStack today by following these simple steps:
 
 Clone the Repository:
-
 git clone https://github.com/kiraclopotel/cipherstack.git
+
 Install Dependencies:
-
 pip install -r requirements.txt
-Run the Prototype:
 
-python main.py
-Contributing
-CipherStack is an open-source project that thrives on collaboration. Whether you’re a developer, cryptography expert, or an enthusiast, your contributions are welcome. Here’s how you can get involved:
+Run the Prototype: python main.py
 
+
+Contributing:
+CipherStack is an open-source project that thrives on collaboration. 
+Whether you’re a developer, cryptography expert, or an enthusiast, your contributions are welcome. 
+
+Here’s how you can get involved:
 Fork the Repository: Experiment with your own features and enhancements.
 Submit Pull Requests: Share your improvements with the community.
 Join Discussions: Collaborate with other contributors and share ideas to help shape CipherStack’s future.
