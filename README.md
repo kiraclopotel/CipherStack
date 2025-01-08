@@ -1,4 +1,6 @@
-CipherStack: Redefining the Future of Encryption
+CipherStack: Redefining the Future of Encryption.
+
+
 Welcome to CipherStack, a revolutionary encryption framework crafted to meet the challenges of our rapidly evolving digital world. In an age where data breaches and security concerns dominate headlines, CipherStack stands as a beacon of innovation, offering robust, scalable, and adaptive encryption solutions. This is not just another encryption tool—it’s a bold leap forward in how we envision and implement data security.
 
 At its heart, CipherStack is a prototype fueled by ambition, determination, and advanced theoretical principles. Built using Python and developed on a modest home computer, this project has demonstrated impressive capabilities, showcasing the vast potential it holds with proper optimization and computational resources. Its modular and scalable design makes it future-proof, ready to evolve alongside emerging technologies and ever-increasing demands for security.
